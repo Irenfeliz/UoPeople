@@ -5,7 +5,6 @@ def countdown(n):
         print(n)
         countdown(n - 1)
 
-
 def countup(n):
     if n >= 0:
         print('Blastoff!')
